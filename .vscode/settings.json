@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "yapf"
+    // "terminal.integrated.shell.windows": "D:\\Develop\\Git\\bin\\bash.exe",
+}
